@@ -1,7 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 import {signIn, signOut} from '../actions'
-import  Google_Auth_Key  from '../../GoogleAuthKey'
+import  Google_Auth_Key  from './GoogleAuthKey'
 
 class GoogleAuth extends React.Component{
 
