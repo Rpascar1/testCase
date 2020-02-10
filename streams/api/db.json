@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "test1 title",
+      "description": "test1 descr",
+      "id": 1
+    },
+    {
+      "title": "test2 title",
+      "description": "test2 descr",
+      "id": 2
+    },
+    {
+      "title": "test2 title",
+      "description": "test2 descr",
+      "id": 3
+    },
+    {
+      "title": "test4 title",
+      "description": "test4 descr",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "description": "tyest",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "tyest",
+      "id": 6
+    },
+    {
+      "title": "test will contain user id",
+      "description": "will contain user id",
+      "userId": "104526265860451729473",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "104526265860451729473",
+      "id": 8
+    }
+  ]
+}
